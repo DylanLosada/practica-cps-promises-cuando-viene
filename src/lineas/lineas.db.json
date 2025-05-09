@@ -4,15 +4,15 @@
     "colectivos": [
       {
         "patente": "aaa-123",
-        "ubicacion": 77
+        "ubicacion": 100
       },
       {
         "patente": "aaa-456",
-        "ubicacion": 105
+        "ubicacion": 0
       },
       {
         "patente": "aaa-789",
-        "ubicacion": 75
+        "ubicacion": 71
       }
     ]
   },
@@ -21,7 +21,7 @@
     "colectivos": [
       {
         "patente": "bbb-123",
-        "ubicacion": 90
+        "ubicacion": 50
       }
     ]
   },
@@ -30,15 +30,15 @@
     "colectivos": [
       {
         "patente": "ccc-123",
-        "ubicacion": 107
+        "ubicacion": 51
       },
       {
         "patente": "ccc-456",
-        "ubicacion": 105
+        "ubicacion": 14
       },
       {
         "patente": "ccc-789",
-        "ubicacion": 54
+        "ubicacion": 58
       }
     ]
   },
@@ -47,7 +47,7 @@
     "colectivos": [
       {
         "patente": "ddd-123",
-        "ubicacion": 60
+        "ubicacion": 54
       }
     ]
   }
